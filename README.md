@@ -1,4 +1,4 @@
-# Set Card Game – SPL Assignment 2
+# Set Card Game 
 
 This project is an implementation of a simplified version of the **Set Card Game**, developed as part of **SPL Assignment 2**.  
 The assignment focuses on **Java concurrency, synchronization, and testing**, giving practice with multi-threaded programming, proper synchronization, and writing unit tests.
